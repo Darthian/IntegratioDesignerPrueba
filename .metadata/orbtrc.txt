@@ -1,0 +1,24 @@
+07:43:54.407 com.ibm.rmi.iiop.Connection send:2262 ModalContext ORBRas[default]  org.omg.CORBA.COMM_FAILURE: purge_calls:1927 Reason: CONN_ABORT (1), State: ABORT (5)  vmcid: IBM  minor code: 306 completed: Maybe
+	at com.ibm.rmi.iiop.Connection.purge_calls(Connection.java:1926)
+	at com.ibm.rmi.iiop.Connection.doReaderWorkOnce(Connection.java:3064)
+	at com.ibm.rmi.transport.ReaderThread.run(ReaderPoolImpl.java:138)
+
+07:43:54.419 com.ibm.rmi.transport.ReaderThread run:150 RT=1:P=94701:O=0:WSTCPTransportConnection[addr=10.85.68.119,port=9080,local=59247] ORBRas[default]  com.ibm.rmi.iiop.GIOPVersionException: 0x48545450
+	at com.ibm.rmi.iiop.Message.discriminate(Message.java:443)
+	at com.ibm.rmi.iiop.Message.createMessage(Message.java:484)
+	at com.ibm.rmi.iiop.Connection.createInputStream(Connection.java:1423)
+	at com.ibm.rmi.iiop.Connection.doReaderWorkOnce(Connection.java:3022)
+	at com.ibm.rmi.transport.ReaderThread.run(ReaderPoolImpl.java:138)
+
+07:44:56.126 com.ibm.rmi.iiop.Connection send:2262 ModalContext ORBRas[default]  org.omg.CORBA.COMM_FAILURE: purge_calls:1927 Reason: CONN_ABORT (1), State: ABORT (5)  vmcid: IBM  minor code: 306 completed: Maybe
+	at com.ibm.rmi.iiop.Connection.purge_calls(Connection.java:1926)
+	at com.ibm.rmi.iiop.Connection.doReaderWorkOnce(Connection.java:3064)
+	at com.ibm.rmi.transport.ReaderThread.run(ReaderPoolImpl.java:138)
+
+07:44:56.127 com.ibm.rmi.transport.ReaderThread run:150 RT=2:P=94701:O=0:WSTCPTransportConnection[addr=10.85.68.119,port=9080,local=59255] ORBRas[default]  com.ibm.rmi.iiop.GIOPVersionException: 0x48545450
+	at com.ibm.rmi.iiop.Message.discriminate(Message.java:443)
+	at com.ibm.rmi.iiop.Message.createMessage(Message.java:484)
+	at com.ibm.rmi.iiop.Connection.createInputStream(Connection.java:1423)
+	at com.ibm.rmi.iiop.Connection.doReaderWorkOnce(Connection.java:3022)
+	at com.ibm.rmi.transport.ReaderThread.run(ReaderPoolImpl.java:138)
+

@@ -1,0 +1,30 @@
+
+INFO     Validando el proyecto: INT-AIS-CRM-CM_Implementation
+INFO       Ejecutando validador: Legacy Workspace Detector (id= LegacyWorkspaceDetector)
+INFO       Ha finalizado la ejecución del validador: Legacy Workspace Detector (id= LegacyWorkspaceDetector)
+INFO       Ejecutando validador: EJB Mapping Validator (id= EjbMappingValidator)
+INFO         El proyecto no tiene un modelo de EJB asociado con el mismo.  No se efectuará la validación de fondo de correlación de EJB.
+INFO       Ha finalizado la ejecución del validador: EJB Mapping Validator (id= EjbMappingValidator)
+INFO       Ejecutando validador: WebSphere Facet Validator (id= WebSphereFacetValidator)
+INFO         El proyecto no tiene un entorno de ejecución de WebSphere asociado con el mismo.  No se efectuará la validación de la faceta de WebSphere.
+INFO       Ha finalizado la ejecución del validador: WebSphere Facet Validator (id= WebSphereFacetValidator)
+INFO       Ejecutando validador: WebSphere Runtime Validator (id= WebSphereRuntimeValidator)
+INFO         El proyecto no tiene un entorno de ejecución de WebSphere asociado con el mismo.  No se efectuará la validación del entorno de ejecución de WebSphere.
+INFO       Ha finalizado la ejecución del validador: WebSphere Runtime Validator (id= WebSphereRuntimeValidator)
+INFO     Ha finalizado la validación del proyecto: INT-AIS-CRM-CM_Implementation
+
+INFO     Validando el proyecto: INT-AIS-CRM-CM_Library
+INFO       Ejecutando validador: Legacy Workspace Detector (id= LegacyWorkspaceDetector)
+INFO       Ha finalizado la ejecución del validador: Legacy Workspace Detector (id= LegacyWorkspaceDetector)
+INFO       Ejecutando validador: EJB Mapping Validator (id= EjbMappingValidator)
+INFO         El proyecto no tiene un modelo de EJB asociado con el mismo.  No se efectuará la validación de fondo de correlación de EJB.
+INFO       Ha finalizado la ejecución del validador: EJB Mapping Validator (id= EjbMappingValidator)
+INFO       Ejecutando validador: WebSphere Facet Validator (id= WebSphereFacetValidator)
+INFO         El proyecto no tiene un entorno de ejecución de WebSphere asociado con el mismo.  No se efectuará la validación de la faceta de WebSphere.
+INFO       Ha finalizado la ejecución del validador: WebSphere Facet Validator (id= WebSphereFacetValidator)
+INFO       Ejecutando validador: WebSphere Runtime Validator (id= WebSphereRuntimeValidator)
+INFO         El proyecto no tiene un entorno de ejecución de WebSphere asociado con el mismo.  No se efectuará la validación del entorno de ejecución de WebSphere.
+INFO       Ha finalizado la ejecución del validador: WebSphere Runtime Validator (id= WebSphereRuntimeValidator)
+INFO     Ha finalizado la validación del proyecto: INT-AIS-CRM-CM_Library
+
+Migración realizada

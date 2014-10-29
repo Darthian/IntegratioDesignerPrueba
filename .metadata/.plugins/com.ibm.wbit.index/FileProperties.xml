@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:properties xmlns:model="http://index.wbit.ibm.com/FilePropertyModel">
+  <model:fileProperties>
+    <model:fileFullPath>/INT-AIS-CRM-CM_Implementation/.classpath</model:fileFullPath>
+    <model:properties>
+      <model:qname localName="fileReference3" qualifier="com.ibm.wbit.index.property"/>
+      <model:value>=com.ibm.wbit.index.workspaceOrFileRelativeRef:/INT-AIS-CRM-CM_Library/.project:/INT-AIS-CRM-CM_Library/.project&amp;</model:value>
+    </model:properties>
+    <model:properties>
+      <model:qname localName="fileReference2" qualifier="com.ibm.wbit.index.property"/>
+      <model:value>=com.ibm.wbit.index.workspaceOrFileRelativeRef:/INT-AIS-CRM-CM_Implementation/.project:/INT-AIS-CRM-CM_Implementation/.project&amp;1</model:value>
+    </model:properties>
+    <model:properties>
+      <model:qname localName="fileReference1" qualifier="com.ibm.wbit.index.property"/>
+      <model:value>=com.ibm.wbit.index.workspaceOrFileRelativeRef:/INT-AIS-CRM-CM_Implementation/sca.library:/INT-AIS-CRM-CM_Implementation/sca.library&amp;1</model:value>
+    </model:properties>
+    <model:properties>
+      <model:qname localName="fileReference0" qualifier="com.ibm.wbit.index.property"/>
+      <model:value>=com.ibm.wbit.index.workspaceOrFileRelativeRef:/INT-AIS-CRM-CM_Implementation/sca.module.attributes:/INT-AIS-CRM-CM_Implementation/sca.module.attributes&amp;1</model:value>
+    </model:properties>
+    <model:properties>
+      <model:qname localName="fileReferenceIndexCount" qualifier="com.ibm.wbit.index.property"/>
+      <model:value>4</model:value>
+    </model:properties>
+  </model:fileProperties>
+  <model:fileProperties>
+    <model:fileFullPath>/INT-AIS-CRM-CM_Implementation/sca.module</model:fileFullPath>
+    <model:properties>
+      <model:qname localName="fileReference1" qualifier="com.ibm.wbit.index.property"/>
+      <model:value>=com.ibm.wbit.index.workspaceOrFileRelativeRef:/INT-AIS-CRM-CM_Implementation/.project:/INT-AIS-CRM-CM_Implementation/.project&amp;</model:value>
+    </model:properties>
+    <model:properties>
+      <model:qname localName="fileReference0" qualifier="com.ibm.wbit.index.property"/>
+      <model:value>=com.ibm.wbit.index.workspaceOrFileRelativeRef:/INT-AIS-CRM-CM_Implementation/sca.modulex:/INT-AIS-CRM-CM_Implementation/sca.modulex&amp;1</model:value>
+    </model:properties>
+    <model:properties>
+      <model:qname localName="fileReferenceIndexCount" qualifier="com.ibm.wbit.index.property"/>
+      <model:value>2</model:value>
+    </model:properties>
+  </model:fileProperties>
+  <model:fileProperties>
+    <model:fileFullPath>/INT-AIS-CRM-CM_Implementation/sca.module.attributes</model:fileFullPath>
+    <model:properties>
+      <model:qname localName="fileReference0" qualifier="com.ibm.wbit.index.property"/>
+      <model:value>=com.ibm.wbit.index.workspaceOrFileRelativeRef:/INT-AIS-CRM-CM_Library/sca.library.attributes:/INT-AIS-CRM-CM_Library/sca.library.attributes&amp;</model:value>
+    </model:properties>
+    <model:properties>
+      <model:qname localName="fileReferenceIndexCount" qualifier="com.ibm.wbit.index.property"/>
+      <model:value>1</model:value>
+    </model:properties>
+  </model:fileProperties>
+  <model:fileProperties>
+    <model:fileFullPath>/INT-AIS-CRM-CM_Library/.classpath</model:fileFullPath>
+    <model:properties>
+      <model:qname localName="fileReference2" qualifier="com.ibm.wbit.index.property"/>
+      <model:value>=com.ibm.wbit.index.workspaceOrFileRelativeRef:/INT-AIS-CRM-CM_Library/sca.library:/INT-AIS-CRM-CM_Library/sca.library&amp;1</model:value>
+    </model:properties>
+    <model:properties>
+      <model:qname localName="fileReference1" qualifier="com.ibm.wbit.index.property"/>
+      <model:value>=com.ibm.wbit.index.workspaceOrFileRelativeRef:/INT-AIS-CRM-CM_Library/.project:/INT-AIS-CRM-CM_Library/.project&amp;1</model:value>
+    </model:properties>
+    <model:properties>
+      <model:qname localName="fileReference0" qualifier="com.ibm.wbit.index.property"/>
+      <model:value>=com.ibm.wbit.index.workspaceOrFileRelativeRef:/INT-AIS-CRM-CM_Library/sca.library.attributes:/INT-AIS-CRM-CM_Library/sca.library.attributes&amp;1</model:value>
+    </model:properties>
+    <model:properties>
+      <model:qname localName="fileReferenceIndexCount" qualifier="com.ibm.wbit.index.property"/>
+      <model:value>3</model:value>
+    </model:properties>
+  </model:fileProperties>
+</model:properties>

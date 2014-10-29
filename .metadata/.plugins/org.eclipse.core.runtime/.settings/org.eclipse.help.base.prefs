@@ -1,0 +1,10 @@
+#Wed Oct 29 07:39:51 CST 2014
+remoteHelpICEnabled=true,true,false
+remoteHelpOn=true
+remoteHelpHost=www.ibm.com,www.ibm.com,127.0.0.1
+remoteHelpPath=/support/knowledgecenter/SSFPJS_8.5.5,/support/knowledgecenter/SSRTLW_8.5.5,/help
+remoteHelpName=BPM documentation,RAD documentation,Local
+remoteHelpPort=80,80,63650
+remoteHelpProtocol=http,http,http
+remoteHelpPreferred=true
+eclipse.preferences.version=1
